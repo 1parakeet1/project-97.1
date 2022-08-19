@@ -1,0 +1,31 @@
+.row{
+    display:inline-flex;
+}
+
+p{
+    font-size: 18px;
+}
+body{
+    background-image: linear-gradient(to right, rgb(25, 201, 201) , rgb(29, 236, 191));
+}
+hr{
+    height: 4px;
+background-color:black;
+}
+.ikd{
+width: 350px;
+}
+
+h1,h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:oblique;
+    font-weight:bold;
+}
+
+img{
+    height: 20px;
+    width: 20px;
+}
+
+
+

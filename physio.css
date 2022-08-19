@@ -1,0 +1,32 @@
+p{
+    font-size: 18px;
+}
+body{
+    background-image: linear-gradient(to right, rgb(91, 182, 235) , rgb(137, 221, 255));
+}
+hr{
+    height: 4px;
+background-color:black;
+}
+.ikd{
+width: 350px;
+}
+
+h1,h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:oblique;
+    font-weight:bold;
+}
+#back_btn{
+    height: 50px;
+    width: 70px;
+    font-size: 17px;
+    position: absolute;
+  left: 0px;
+  top: 0px;
+
+}
+mark {
+    background-color: yellow;
+    color: black;
+  }
